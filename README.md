@@ -4,6 +4,7 @@ Instructions.
 1. Add .env file to the root using the following keys:
 
 PORT=3000
+
 OPENAI_API_KEY=PROVIDED_OPEN_API_KEY
 
 
@@ -12,6 +13,7 @@ OPENAI_API_KEY=PROVIDED_OPEN_API_KEY
 3. Build and run docker
 
 docker build -t anki-flashcards .
+
 docker run -p 3000:3000 anki-flashcards
 
 4. Test on postman:
