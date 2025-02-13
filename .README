@@ -4,7 +4,7 @@ Instructions.
 1. Add .env file to the root using the following keys:
 
 PORT=3000
-OPENAI_API_KEY="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"
+OPENAI_API_KEY=PROVIDED_OPEN_API_KEY
 
 
 2. npm install
