@@ -1,3 +1,5 @@
+NOTE: pt-PT is not supported on gTTS without the Google Cloud Text To Speech subscription.
+
 Instructions.
 
 
